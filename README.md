@@ -1,5 +1,5 @@
 # Front-End-JavaScript-Developer-Central-London-1931
-Front-End JavaScript Developer-Gaming and Entertainment-Central London
+Front-End JavaScript Developer / Gaming and Entertainment / Central London / £50,000 - £70,000
 
 Do you want to be part of a cool, vibey team who are using their magic hands to build the worlds largest online gambling federation? 
 
@@ -43,3 +43,8 @@ Their offices are super trendy and even though they’re a fairly large company,
 Don’t worry if you don’t have a CV, just send me your LinkedIn profile and we can go from there! 
 
 Please email lucy.wright@tecknuovo.com if you’d like to talk through the above in more detail.
+
+# Questions:
+**What is the salary range?**
+
+£50 000 - £70 000 + benefits + 10 % bonus 
