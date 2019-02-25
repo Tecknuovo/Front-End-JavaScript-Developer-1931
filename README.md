@@ -1,11 +1,6 @@
 # Front-End-JavaScript-Developer-Central-London-1931
 Front-End JavaScript Developer-Gaming and Entertainment-Central London
 
-# Stack: 
-
-JavaScript / React / Node.js / HTML / CSS / TDD / Docker / Microservices / Agile
-
-
 Do you want to be part of a cool, vibey team who are using their magic hands to build the worlds largest online gambling federation? 
 
 Are you a gaming geek who wants to work with some of the sexiest technology on a super sexy gaming platform? 
@@ -13,6 +8,10 @@ Are you a gaming geek who wants to work with some of the sexiest technology on a
 Are you a skilled techy moving half way across the world and are looking for a jackpot opportunity?
  
 Alright you lucky players. Let’s put the cards on the table… 
+
+# Stack: 
+
+JavaScript / React / Node.js / HTML / CSS / TDD / Docker / Microservices / Agile
 
 
 # Which gaming realm will I be part of?
